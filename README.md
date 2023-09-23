@@ -2,6 +2,8 @@
 
 Solanaの開発に関わる日本語の資料をまとめています。
 
+- [Discord](https://discord.com/invite/w6gnxPb4JJ)
+
 ## ドキュメント
 
 - [Solana Cookbook](https://solanacookbook.com/ja/)
