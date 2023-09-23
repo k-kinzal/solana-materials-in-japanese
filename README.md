@@ -1,5 +1,7 @@
 # Solanaの日本語資料
 
+Solanaの開発に関わる日本語の資料をまとめています。
+
 ## ドキュメント
 
 - [Solana Cookbook](https://solanacookbook.com/ja/)
