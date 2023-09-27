@@ -11,6 +11,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 ## 記事
 
 - [RustでSolanaのオンチェーンプログラムをデプロイする｜cml_2010](https://note.com/cml_2010/n/n3b0895215b64)
+- [Nuxt.jsで@solana/web3.jsを使用する](https://note.com/cml_2010/n/n5600fb1f68b8)
 - [Solanaでスマートコントラクトを書いてみた - GeT_Pwn3d!](https://morimolymoly.hateblo.jp/entry/2021/10/05/191631)
 - [ソラナ（Solana）ブロックチェーン及び ソラナ上のトークンの発行 ...](https://recruit.gmo.jp/engineer/jisedai/blog/solana_blockchain_and_token/)
 - [ブロックチェーン知識ゼロから Solana ハッカソンに参戦するまでの ...](https://tomoima525.hatenablog.com/entry/2021/10/21/161644)
@@ -18,6 +19,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [イーサリアムキラーの本命？Solanaのプログラムを作って遊んで ...](https://blog.flinters.co.jp/entry/2021/11/08/090000)
 - [SolanaのAnchorで実装されたEscrowのコード解説](https://zenn.dev/razokulover/articles/c2338cb83f459b)
 - [Solanaの学習](https://zenn.dev/razokulover/scraps/31398dd485ff26)
+- [Solanaでの開発ことはじめ](https://zenn.dev/razokulover/scraps/0a7d6ffdffddd4)
 - [SolanaのWeb3.jsサンプル実装 – myMemoBlog by 256hax](https://blog.tanebox.com/archives/1638/)
 - [【保存版】solanaのBOT開発かんたんに説明｜20代男性の裏側](https://takenchi.com/3767-2)
 - [Solana Anchorのデバッグ方法 – myMemoBlog by 256hax](https://blog.tanebox.com/archives/1674/)
