@@ -33,8 +33,10 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [SolanaのNFTをMintするまで解説 3/4 Arweaveに画像とオフチェーンメタデータをアップロード](https://zenn.dev/regonn/articles/solana-nft-02)
 - [SolanaのNFTをMintするまで解説 4/4 SPLトークンをミントしてNFTを作成](https://zenn.dev/regonn/articles/solana-nft-03)
 - [Solana のトークン価格取得｜yugure.sol](https://note.com/crypto2real/n/n6c8919653d58)
+- [Solana の Orca で独自プールを作る](https://note.com/crypto2real/n/n9707cef57e25)
 - [【Solana, TypeScript】自分のウォレットでSPLトークンを作成する ...](https://qiita.com/derodero24/items/7b7ff2171c2a4ea75a4f)
 - [【Solana, TypeScript】NFTのmintアドレスから現在のオーナー ...](https://qiita.com/derodero24/items/c5ea1c6f9468879a6085)
+- [【Solana, TypeScript】base58エンコードされたstring型アドレスをweb3.Publickey型に変換](https://qiita.com/derodero24/items/b601ff285d5f9bc9d8da)
 - [Solana開発メモ](https://zenn.dev/kinzal/scraps/6e2efb96d72950)
 - [dex bot開発ムズすぎワロタぁ！ - INTP型のブログ](https://intptan.hatenablog.com/entry/2022/04/07/121206)
 - [NEAR Protocol: はじめてのスマートコントラクト in Rust](https://smacon.dev/posts/near-first-contract/)
@@ -86,6 +88,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [忙しい人のためのSolana Compressed NFT (cNFT)](https://zenn.dev/ki4themecha2q/articles/7dcb9753783a23)
 - [Solana Validator のはじめかた。](https://zenn.dev/fumisouls/articles/1139254969bafb)
 - [Solanaバリデーターをわずか10分で立ち上げるオープンソースツール"solv"](https://zenn.dev/ki4themecha2q/articles/c65ee24ddc2a0f)
+- [SolanaのSPLの書き方を知ろう](https://zenn.dev/kinzal/articles/c2c8ced07ecd40)
 
 ## 英語資料のリンク集
 
