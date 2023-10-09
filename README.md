@@ -47,6 +47,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [Solanaを理解する上で重要な用語5つを噛み砕いてみる](https://zenn.dev/hyde2000/articles/e5127057e2c78a)
 - [SolanaのEscrow実装でつまずいた人へ送る有意義な情報](https://zenn.dev/damisososo/articles/anchor-escrow-beginner)
 - [[Solana] Wallet情報をrecoverする | DevelopersIO](https://dev.classmethod.jp/articles/solana-wallet/)
+- [SolanaでHelloWorldしてみる｜yasstake](https://note.com/yasstake/n/nc88bfb1cef16)
 - [Solanaではじめるスマートコントラクト | DevelopersIO](https://dev.classmethod.jp/articles/solana-kickstart/)
 - [Solana 分散ストレージの Shadow Drive を利用して Solana エコシステム上で NFT を発行する](https://zenn.dev/regonn/articles/shadow-drive-nft)
 - [solanaとserumの勉強 #1 -orderbookの中身見てみる-](https://zenn.dev/dl10yr/articles/solana-serum-1)
@@ -89,6 +90,8 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [Solana Validator のはじめかた。](https://zenn.dev/fumisouls/articles/1139254969bafb)
 - [Solanaバリデーターをわずか10分で立ち上げるオープンソースツール"solv"](https://zenn.dev/ki4themecha2q/articles/c65ee24ddc2a0f)
 - [SolanaのSPLの書き方を知ろう](https://zenn.dev/kinzal/articles/c2c8ced07ecd40)
+- [SolanaのプログラムでCRUDしてみよう](https://zenn.dev/kinzal/articles/5302a4dae1c8d7)
+- [Solanaのプログラムでより安全で、より可読性の高い書き方を考え ...](https://zenn.dev/kinzal/scraps/18e06c1bb0d0d3)
 
 ## 英語資料のリンク集
 
