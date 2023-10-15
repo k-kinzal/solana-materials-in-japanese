@@ -92,6 +92,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [SolanaのSPLの書き方を知ろう](https://zenn.dev/kinzal/articles/c2c8ced07ecd40)
 - [SolanaのプログラムでCRUDしてみよう](https://zenn.dev/kinzal/articles/5302a4dae1c8d7)
 - [Solanaのプログラムでより安全で、より可読性の高い書き方を考え ...](https://zenn.dev/kinzal/scraps/18e06c1bb0d0d3)
+- [忙しい人のための Sign In With Solana (SIWS)](https://zenn.dev/ki4themecha2q/articles/85b8725a142f76)
 
 ## 英語資料のリンク集
 
