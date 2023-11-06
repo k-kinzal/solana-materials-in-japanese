@@ -47,6 +47,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [はじめての Solana: Rust で Hello World!](https://smacon.dev/posts/solana-hello/)
 - [Solana wallet-adapterで「RPC Error: Transaction creation failed ...](https://blog.tanebox.com/archives/2078/)
 - [Rust ではじめるスマートコントラクト入門 | Web3 プログラミング ...](https://smacon.dev/rust/)
+- [Solana MetaplexでmintNFTすると「Non-base58 character」エラー ...](https://blog.tanebox.com/archives/2094/)
 - [Solana / RPCからの結果のゆらぎ｜yugure.sol](https://note.com/crypto2real/n/n53e6f58b1cf0)
 - [Solanaを理解する上で重要な用語5つを噛み砕いてみる](https://zenn.dev/hyde2000/articles/e5127057e2c78a)
 - [SolanaのEscrow実装でつまずいた人へ送る有意義な情報](https://zenn.dev/damisososo/articles/anchor-escrow-beginner)
@@ -69,6 +70,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [[Solana] NFTをmintしてみる | DevelopersIO](https://dev.classmethod.jp/articles/solana-nft-mint/)
 - [Solana SPLトークンのスマートコントラクトについて解説](https://zenn.dev/yusuke_ikeda/articles/b814f821e478a9)
 - [ぼくのかんがえたさいきょうの Solana dApp ボイラープレート](https://zenn.dev/ki4themecha2q/articles/f749e2328a7d99)
+- [Solana project - HackMD](https://hackmd.io/@keis/H1jotpNOc)
 - [SolanaのWeb3.jsを実行すると「custom program error: 0xc」エラー ...](https://blog.tanebox.com/archives/2246/)
 - [Web3 ハッカソンに出て初めてのブロックチェーンアプリケーション ...](https://qiita.com/kenmaro/items/7aa336227d6eb332d791)
 - [Solana(Anchor) + Nextjs でTODOアプリケーション構築 のまとめ ...](https://qiita.com/kenmaro/items/4732bcc5350984cd7a66)
@@ -98,6 +100,9 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [SolanaのプログラムでCRUDしてみよう](https://zenn.dev/kinzal/articles/5302a4dae1c8d7)
 - [Solanaのプログラムでより安全で、より可読性の高い書き方を考え ...](https://zenn.dev/kinzal/scraps/18e06c1bb0d0d3)
 - [忙しい人のための Sign In With Solana (SIWS)](https://zenn.dev/ki4themecha2q/articles/85b8725a142f76)
+- [Solanaでプログラムを使った計算結果を取得する](https://zenn.dev/kinzal/articles/559d91fe76914e)
+- [Solang (Solidity)で始めるSolanaスマートコントラクト開発](https://zenn.dev/kinzal/articles/5c3ee2a6b102a6)
+- [solv2リリース - 簡単3ステップでSolanaバリデーターを立ち上げ。Latitudeクーポンで無料お試し可能。](https://note.com/kishithemechanic/n/n3bb48f186e44)
 
 ## 英語資料のリンク集
 
