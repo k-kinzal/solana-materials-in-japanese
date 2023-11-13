@@ -72,6 +72,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [ぼくのかんがえたさいきょうの Solana dApp ボイラープレート](https://zenn.dev/ki4themecha2q/articles/f749e2328a7d99)
 - [Solana project - HackMD](https://hackmd.io/@keis/H1jotpNOc)
 - [SolanaのWeb3.jsを実行すると「custom program error: 0xc」エラー ...](https://blog.tanebox.com/archives/2246/)
+- [Solana で特定のプログラムの BPF バイナリをダンプする方法 ...](https://hackmd.io/@kazuki-hanai/solana-dump-program)
 - [Web3 ハッカソンに出て初めてのブロックチェーンアプリケーション ...](https://qiita.com/kenmaro/items/7aa336227d6eb332d791)
 - [Solana(Anchor) + Nextjs でTODOアプリケーション構築 のまとめ ...](https://qiita.com/kenmaro/items/4732bcc5350984cd7a66)
 - [Solanaで「unknown signer: ${pubkey.toString()」エラー ...](https://blog.tanebox.com/archives/2285/)
