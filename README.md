@@ -15,6 +15,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [Solanaでスマートコントラクトを書いてみた - GeT_Pwn3d!](https://morimolymoly.hateblo.jp/entry/2021/10/05/191631)
 - [ソラナ（Solana）ブロックチェーン及び ソラナ上のトークンの発行 ...](https://recruit.gmo.jp/engineer/jisedai/blog/solana_blockchain_and_token/)
 - [ブロックチェーン知識ゼロから Solana ハッカソンに参戦するまでの ...](https://tomoima525.hatenablog.com/entry/2021/10/21/161644)
+- [React、Anchor、Rust、Phantomを使用したフルスタックSolana ...](https://note.com/nftonline/n/n21fdb1a9bcc0)
 - [Solana での BOT 開発の概要](https://zenn.dev/softgate/articles/8ee1e3e3f1ce33)
 - [イーサリアムキラーの本命？Solanaのプログラムを作って遊んで ...](https://blog.flinters.co.jp/entry/2021/11/08/090000)
 - [SolanaのAnchorで実装されたEscrowのコード解説](https://zenn.dev/razokulover/articles/c2338cb83f459b)
@@ -107,6 +108,7 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [忙しい人のためのSolana Compressed NFT (cNFT)](https://zenn.dev/ki4themecha2q/articles/7dcb9753783a23)
 - [Solana Validator のはじめかた。](https://zenn.dev/fumisouls/articles/1139254969bafb)
 - [Solanaバリデーターをわずか10分で立ち上げるオープンソースツール"solv"](https://zenn.dev/ki4themecha2q/articles/c65ee24ddc2a0f)
+- [ぼくのかんがえたさいきょうの Solana dApp ボイラープレート #React](https://qiita.com/KishiTheMechanic/items/0000fc195ae3e7092644)
 - [SolanaのSPLの書き方を知ろう](https://zenn.dev/kinzal/articles/c2c8ced07ecd40)
 - [SolanaのプログラムでCRUDしてみよう](https://zenn.dev/kinzal/articles/5302a4dae1c8d7)
 - [Solana Validator のはじめかた。(お引越しも対応) #Ubuntu - Qiita](https://qiita.com/FumiSOULs/items/3f26a7b29d8711fb8432)
@@ -119,10 +121,17 @@ Solanaの開発に関わる日本語の資料をまとめています。
 - [solv2リリース - 簡単3ステップでSolanaバリデーターを立ち上げ。Latitudeクーポンで無料お試し可能。](https://note.com/kishithemechanic/n/n3bb48f186e44)
 - [Solana Developer Hub Online #0: Rust入門 in Solana｜SolDevHub](https://note.com/solana_dev_hub/n/n0eed6427740c)
 - [Solana Developer Hub Online #0: AIで始めるRustプログラミング ...](https://note.com/solana_dev_hub/n/n941676e23230)
+- [Solana AnchorでProvider local is not available on browser ...](https://blog.tanebox.com/archives/2441/)
+- [Solana Anchorで作ったProgramのIDLをReactから呼ぶとIdlType ...](https://blog.tanebox.com/archives/2438/)
 - [botterのためのRustでSolana入門（前編） #Rust - Qiita](https://qiita.com/pico-sol/items/013c0645906ed598c37b)
 - [Solana の RPC プロバイダ比較｜yugure.sol](https://note.com/crypto2real/n/neb31115a8de5)
 - [Solana の Program 周りに関する調査](https://hackmd.io/@woxjro/BJyAje4vp)
 - [はじめてのAtomic Arbitrage with Rust とon-chain Program｜pe](https://note.com/clever_dahlia308/n/nfe54507cffe7)
+- [\[Typescript\] solanaのアカウント作成(テストネット) + フォーセット ...](https://qiita.com/sakenomi_dev/items/4140342271334420f326)
+- [SolanaのToken-2022 ProgramのMetadataを検証してみた - GMO ...](https://recruit.gmo.jp/engineer/jisedai/blog/solana-token-2022-program-metadata/)
+- [Pyth NetworkのAccount調査](https://zenn.dev/kinzal/articles/d6418610d83b41)
+- [Solana 上で複数の Compressed NFT (cNFT) を一度にMintする時の ...](https://zenn.dev/ki4themecha2q/articles/684150604d8be8)
+- [Solana Developer Hub #2: コントラクトを作らないブロック ...](https://note.com/solana_dev_hub/n/nfbf5250bff62)
 
 ## 英語資料のリンク集
 
